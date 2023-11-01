@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Project\Project6.2(1)\Project6.2(1)\Source.cpp(26,22): warning C4018: '<': signed/unsigned mismatch
+D:\Project\Project6.2(1)\Project6.2(1)\Source.cpp(35,22): warning C4018: '<': signed/unsigned mismatch
+  Project6.2(1).vcxproj -> D:\Project\Project6.2(1)\Debug\Project6.2(1).exe

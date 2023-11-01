@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest6.2(1).cpp
+D:\Project\Project6.2(1)\Project6.2(1)\Source.cpp(26,22): warning C4018: '<': signed/unsigned mismatch
+D:\Project\Project6.2(1)\Project6.2(1)\Source.cpp(35,22): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Project\Project6.2(1)\Debug\UnitTest6.2(1).lib and object D:\Project\Project6.2(1)\Debug\UnitTest6.2(1).exp
+  UnitTest6.2(1).vcxproj -> D:\Project\Project6.2(1)\Debug\UnitTest6.2(1).dll
